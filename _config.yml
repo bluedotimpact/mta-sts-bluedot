@@ -1,1 +1,3 @@
+# This exists because by defualt GitHub Pages does not serve files in directories beginning with periods
+# See https://stackoverflow.com/questions/55880919/
 include: [".well-known"]
